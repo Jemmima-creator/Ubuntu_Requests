@@ -1,4 +1,4 @@
-# Ubuntu Image Fetcher 🖼️
+# Ubuntu Image Fetcher
 
 ## The Wisdom of Ubuntu: *"I am because we are"*
 
